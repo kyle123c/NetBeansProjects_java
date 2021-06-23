@@ -1,3 +1,5 @@
+package javaapplication1.HW6;
+
 
 public class UnderGrad extends Student {
     @Override
